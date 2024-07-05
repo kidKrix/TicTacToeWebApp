@@ -3,4 +3,4 @@
 This project is a modern, fully responsive implementation of the classic Tic Tac Toe game, built with HTML, CSS, JavaScript.</p>
 
 <h2>Demo</h2>
-<p>Check out the live demo of the game <a href="https://github.com/kidKrix/TicTacToeWebApp">here.</a></p>
+<p>Check out the live demo of the game <a href="https://github.com/kidKrix/TicTacToeWebApp/tree/main/fullResponsive-TicTacToeGame">here.</a></p>
